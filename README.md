@@ -4,7 +4,7 @@
 
 I'm a computer science student who is passionate about learning new stuff, writing code and solving problems.
 
-- 🔭 I’m currently a IT student at Guru Gobing Singh Unversity.
+- 🔭 I’m an IT student at Guru Gobind Singh Unversity.
 - 📚 I’m currently learning  backend web development using NodeJS, ExpressJS and MongoDB.
 - 👯 I’m looking for a Web development internship. 
 
