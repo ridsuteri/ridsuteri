@@ -41,7 +41,7 @@ I'm a computer science student who is passionate about learning new stuff, writi
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://ridsuteri.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/Website-ridsuteri.netlify.app-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://connect-ridsuteri.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/Website-ridsuteri.netlify.app-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/riddhi-suteri/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Riddhi%20Suteri-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/ridsuteri/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-ridsuteri-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:ridsuteri@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ridsuteri@gmail.com-blue?style=flat-square&logo=gmail"></a>
