@@ -5,7 +5,7 @@
 I'm a computer science student who is passionate about learning new stuff, writing code and solving problems.
 
 - 🔭 I’m an IT student at Guru Gobind Singh Indraprastha Unversity.
-- 📚 I’m currently learning  backend web development using NodeJS, ExpressJS and MongoDB.
+- 📚 I’m currently learning React.js
 - 👯 I’m looking for a Web development internship. 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
@@ -19,6 +19,7 @@ I'm a computer science student who is passionate about learning new stuff, writi
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+  ![React.js](https://img.shields.io/badge/-React.js-333333?style=flat&logo=react.js)
 - 🛢 &nbsp;
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 - ⚙️ &nbsp;
@@ -43,6 +44,7 @@ I'm a computer science student who is passionate about learning new stuff, writi
 <p align="center">
 <a href="https://connect-ridsuteri.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/Website-ridsuteri.netlify.app-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/riddhi-suteri/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Riddhi%20Suteri-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://twitter.com/rid_suteri/"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-rid_suteri-blue?style=flat-square&logo=twitter"></a>
 <a href="https://www.instagram.com/ridsuteri/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-ridsuteri-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:ridsuteri@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ridsuteri@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
