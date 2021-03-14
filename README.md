@@ -1,50 +1,34 @@
-### Hi there 👋
+<h2>नमस्ते (Namaste)🙏🏻,  I'm Riddhi Suteri !
+<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<p><em>Full Stack Web Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
 
-<img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
+![Twitter Follow](https://img.shields.io/twitter/follow/rid_suteri?label=Follow)
+[![Linkedin: thaianebraga](https://img.shields.io/badge/-riddhi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/riddhi-suteri/)](https://www.linkedin.com/in/riddhi-suteri/)
+![GitHub followers](https://img.shields.io/github/followers/ridsuteri?label=Follow&style=social)
+<a href="mailto:ridsuteri@gmail.com"><img alt="Email" src="https://img.shields.io/badge/ridsuteri@gmail.com-blue?style=flat-square&logo=gmail"></a>
+![](https://visitor-badge.glitch.me/badge?page_id=ridsuteri.ridsuteri)
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-I'm a computer science student who is passionate about learning new stuff, writing code and solving problems.
-
-- 🔭 I’m an IT student at Guru Gobind Singh Indraprastha Unversity.
-- 📚 I’m currently learning React.js
-- 👯 I’m looking for a Web development internship. 
-
-<h3> 🛠 &nbsp;Tech Stack</h3>
-
-- 💻 &nbsp;
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-- 🌐 &nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![React.js](https://img.shields.io/badge/-React.js-333333?style=flat&logo=react.js)
-- 🛢 &nbsp;
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-- ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
-- 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
-
-<br/>
-
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ridsuteri&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ridsuteri&theme=buefy&layout=compact" />
-</a>
-
-<br/>
-
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
-
-<p align="center">
-<a href="https://connect-ridsuteri.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/Website-ridsuteri.netlify.app-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/riddhi-suteri/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Riddhi%20Suteri-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://twitter.com/rid_suteri/"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-rid_suteri-blue?style=flat-square&logo=twitter"></a>
-<a href="https://www.instagram.com/ridsuteri/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-ridsuteri-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:ridsuteri@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ridsuteri@gmail.com-blue?style=flat-square&logo=gmail"></a>
-</p>
+```javascript
+const ridsuteri = {
+    pronouns: "He" | "Him",
+    code: [Javascript, C++, Java],
+    askMeAbout: ["web dev", "tech", "blog writing"],
+    technologies:{
+       frontEnd: {
+            js: ["React"],
+            css: ["materialize", "bootstrap"]
+        },
+        backEnd: {
+            js: ["node", "express"],
+        },
+        devOps: ["AWS"],
+        databases: ["mongo","sql"],
+        misc: ["Firebase", "socket.iO"]  
+    },
+    challenge: "I am trying to do more open source contributions",
+    funFact: "There are two ways to write error-free programs; only the third one works"
+};
+```
