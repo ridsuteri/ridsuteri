@@ -4,10 +4,8 @@
 <p><em>Full Stack Web Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-![Twitter Follow](https://img.shields.io/twitter/follow/rid_suteri?label=Follow)
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-riddhi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/riddhi-suteri/)](https://www.linkedin.com/in/riddhi-suteri/)
-![GitHub followers](https://img.shields.io/github/followers/ridsuteri?label=Follow&style=social)
-<a href="mailto:ridsuteri@gmail.com"><img alt="Email" src="https://img.shields.io/badge/ridsuteri@gmail.com-blue?style=flat-square&logo=gmail"></a>
+[![Twitter Badge](https://img.shields.io/badge/-@rid_suteri-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/rid_suteri)](https://twitter.com/rid_suteri) [![Linkedin Badge](https://img.shields.io/badge/-riddhi%20suteri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/riddhi-suteri/)](https://www.linkedin.com/in/riddhi-suteri/) 
+[![Gmail Badge](https://img.shields.io/badge/-ridsuteri@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ridsuteri@gmail.com)](mailto:ridsuteri@gmail.com)
 ![](https://visitor-badge.glitch.me/badge?page_id=ridsuteri.ridsuteri)
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
