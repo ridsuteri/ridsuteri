@@ -22,7 +22,7 @@ const ridsuteri = {
         backEnd: {
             js: ["node", "express"],
         },
-        devOps: ["AWS"],
+        devOps: ["AWS", "Google Cloud"],
         databases: ["mongo","sql"],
         misc: ["Firebase", "socket.iO"]  
     },
