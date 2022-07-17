@@ -12,8 +12,8 @@
 ```javascript
 const ridsuteri = {
     pronouns: "He" | "Him",
-    code: [Javascript, C++, Java],
-    askMeAbout: ["web dev", "tech", "blog writing"],
+    code: [Javascript, C++, Java, Dart, Typescript],
+    askMeAbout: ["Web Developemnt", "Flutter", "Technical Writing"],
     technologies:{
        frontEnd: {
             js: ["React"],
@@ -24,7 +24,7 @@ const ridsuteri = {
         },
         devOps: ["AWS", "Google Cloud"],
         databases: ["mongo","sql"],
-        misc: ["Firebase", "socket.iO"]  
+        misc: ["Firebase", "socket.io"]
     },
     challenge: "I am trying to do more open source contributions",
     funFact: "There are two ways to write error-free programs; only the third one works"
